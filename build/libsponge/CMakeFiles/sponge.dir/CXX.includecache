@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/name/git_files/libsponge/byte_stream.cc
+byte_stream.hh
+/home/name/git_files/libsponge/byte_stream.hh
+
+/home/name/git_files/libsponge/byte_stream.hh
+string
+-
+

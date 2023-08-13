@@ -17,6 +17,12 @@ class ByteStream {
     // that's a sign that you probably want to keep exploring
     // different approaches.
 
+    size_t _capacity = 0;  //缓冲区容量
+    std::string _buff = "";      //缓冲区
+    size_t _nwrite = 0;    //写入的字符数
+    size_t _nread = 0;     //已读的字符数
+    bool _eof = false;        //标志符
+
     bool _error{};  //!< Flag indicating that the stream suffered an error.
 
   public:
