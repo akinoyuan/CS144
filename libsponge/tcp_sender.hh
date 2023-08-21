@@ -32,6 +32,17 @@ class TCPSender {
     //! the (absolute) sequence number for the next byte to be sent
     uint64_t _next_seqno{0};
 
+    std::queue<TCPSegment> _outstanding_segments{}; //已发送未确认的segments
+    uint64_t _bytes_in_flight = 0;  //计算传输中的字节数量
+    unsigned int _RTO;              //超时重传的时间，其初始值为_initial_retransmission_timeout
+    unsigned int _consecutive_retransmissions = 0; //超时重传的次数
+    uint16_t _window_size = 1;    //窗口大小，初值为1，注意，当窗口大小为0时也视为1
+    bool _backoff = true;        //指数避退，If the window size is nonzero，it's true
+    bool _timer_on = false;       //计时器是否启动
+    bool _syn_sent = false;       //syn和fin标志是否发送
+    bool _fin_sent = false;   
+    size_t _time_passed = 0;      //记录发送seg后过去的时间，与_RTO比较，控制超时重传
+
   public:
     //! Initialize a TCPSender
     TCPSender(const size_t capacity = TCPConfig::DEFAULT_CAPACITY,

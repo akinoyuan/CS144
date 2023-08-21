@@ -5,6 +5,7 @@
 
 #include <cstdint>
 #include <string>
+#include <set>
 
 //! \brief A class that assembles a series of excerpts from a byte stream (possibly out of order,
 //! possibly overlapping) into an in-order byte stream.
@@ -12,8 +13,27 @@ class StreamReassembler {
   private:
     // Your code here -- add private members as necessary.
 
+    bool _eof = false;    //结束标志
+    size_t _eof_index = 0;    //最后一个字符的索引
+    typedef struct node {                       //保存未write的字符串的数据结构
+        std::string _data;
+        size_t _index;
+        size_t _end_index;
+        node(std::string data, size_t index) : _data(data), _index(index), _end_index(_index+data.size()) {}
+        bool operator < (const node &a) const { return _index<a._index;}    //从小到大排列
+    } node;
+    std::set<node> _buffer = {};
+
     ByteStream _output;  //!< The reassembled in-order byte stream
     size_t _capacity;    //!< The maximum number of bytes
+    
+    //两个标志位
+    size_t _first_unassembled() const {return _output.bytes_written();}
+    size_t _first_unacceptable() const {return _output.bytes_read() + _capacity;}
+
+    //处理可接收的字符串的私有成员函数:放入缓存区/装配
+    void _put_in_buff(node str);
+    void _assemble(node str);
 
   public:
     //! \brief Construct a `StreamReassembler` that will store up to `capacity` bytes.
@@ -29,7 +49,7 @@ class StreamReassembler {
     //! \param data the substring
     //! \param index indicates the index (place in sequence) of the first byte in `data`
     //! \param eof the last byte of `data` will be the last byte in the entire stream
-    void push_substring(const std::string &data, const uint64_t index, const bool eof);
+    void push_substring(const std::string &data, const size_t index, const bool eof);
 
     //! \name Access the reassembled byte stream
     //!@{
