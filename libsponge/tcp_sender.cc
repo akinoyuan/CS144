@@ -3,6 +3,7 @@
 #include "tcp_config.hh"
 
 #include <random>
+#include<iostream>
 
 // Dummy implementation of a TCP sender
 
@@ -20,19 +21,90 @@ using namespace std;
 TCPSender::TCPSender(const size_t capacity, const uint16_t retx_timeout, const std::optional<WrappingInt32> fixed_isn)
     : _isn(fixed_isn.value_or(WrappingInt32{random_device()()}))
     , _initial_retransmission_timeout{retx_timeout}
-    , _stream(capacity) {}
+    , _stream(capacity)
+    , _RTO{retx_timeout} {}
 
-uint64_t TCPSender::bytes_in_flight() const { return {}; }
+uint64_t TCPSender::bytes_in_flight() const { return _bytes_in_flight; }
 
-void TCPSender::fill_window() {}
+void TCPSender::fill_window() {
+    if(_fin_sent) return;               //已结束
+    while(bytes_in_flight()<_window_size&&!_stream.buffer_empty()){ //输入流不为空，接收窗口未满
+        TCPSegment seg = TCPSegment();
+        if(!_syn_sent){
+            seg.header().syn = true;
+            _syn_sent = true;
+        }
+        size_t len = min(_window_size-bytes_in_flight()-seg.length_in_sequence_space(), TCPConfig::MAX_PAYLOAD_SIZE); //?这几个无符号数减下来会不会溢出？
+        seg.header().seqno = wrap(_next_seqno,_isn);
+        seg.payload() = _stream.read(len);
+        if(_stream.eof()&&len>=seg.length_in_sequence_space()+1){    //输入结束且空间足以放入fin
+            seg.header().fin = true;
+            _fin_sent = true;
+        }
+        //发送seg，并计算相关的值
+        _next_seqno += seg.length_in_sequence_space();
+        _bytes_in_flight += seg.length_in_sequence_space();
+        _segments_out.push(seg);
+        _outstanding_segments.push(seg);
+        if(!_timer_on){
+            _time_passed = 0;
+            _timer_on = true;
+        }
+    }
+}
 
 //! \param ackno The remote receiver's ackno (acknowledgment number)
 //! \param window_size The remote receiver's advertised window size
-void TCPSender::ack_received(const WrappingInt32 ackno, const uint16_t window_size) { DUMMY_CODE(ackno, window_size); }
+void TCPSender::ack_received(const WrappingInt32 ackno, const uint16_t window_size) {
+    //首先判断收到的ackno是否有效
+    uint64_t abs_ackno = unwrap(ackno, _isn, _next_seqno);
+    TCPSegment front_seg = _outstanding_segments.front();
+    uint64_t front_abs_seqno = unwrap(front_seg.header().seqno, _isn, _next_seqno);
+    if(!(abs_ackno<_next_seqno && abs_ackno>=front_abs_seqno)) return;
+    if(window_size==0){
+        _window_size = 1;
+        _backoff = false;
+    }else{
+        _window_size = window_size;
+        _backoff = true;
+    }
+    while(!_outstanding_segments.empty()){
+        front_seg = _outstanding_segments.front();
+        front_abs_seqno = unwrap(front_seg.header().seqno, _isn, _next_seqno);
+        if(abs_ackno>=front_abs_seqno+front_seg.length_in_sequence_space()){  //确认发送窗口中的至少一整段seg
+            _outstanding_segments.pop();
+            _RTO = _initial_retransmission_timeout;     //RTO恢复初始值
+            _consecutive_retransmissions = 0;           //连续重传置零
+            _time_passed = 0;                           //timepassed置零
+            _bytes_in_flight -= front_seg.length_in_sequence_space(); 
+        }else break;
+    }
+    if(!_outstanding_segments.empty()){                 //传输中队列为空，关闭计时器
+        _timer_on = false;
+        _time_passed = 0;
+    }
+    fill_window();                                      //window_size更新后，调用fill_window()传输数据
+}
 
 //! \param[in] ms_since_last_tick the number of milliseconds since the last call to this method
-void TCPSender::tick(const size_t ms_since_last_tick) { DUMMY_CODE(ms_since_last_tick); }
+void TCPSender::tick(const size_t ms_since_last_tick) {
+    if(_timer_on){
+        _time_passed += ms_since_last_tick;
+        if(_time_passed >= _RTO){                       //超时处理
+            _segments_out.push(_outstanding_segments.front());
+            if(_backoff){                               //指数避退
+                ++_consecutive_retransmissions;
+                _RTO *= 2;
+            }
+            _time_passed = 0;
+        }
+    }
+}
 
-unsigned int TCPSender::consecutive_retransmissions() const { return {}; }
+unsigned int TCPSender::consecutive_retransmissions() const { return _consecutive_retransmissions; }
 
-void TCPSender::send_empty_segment() {}
+void TCPSender::send_empty_segment() {
+    TCPSegment seg = TCPSegment();
+    seg.header().seqno = wrap(_next_seqno, _isn);
+    _segments_out.push(seg);
+}
