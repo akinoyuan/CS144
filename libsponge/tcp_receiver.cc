@@ -23,7 +23,7 @@ void TCPReceiver::segment_received(const TCPSegment &seg) {
     }
 }
 
-optional<WrappingInt32> TCPReceiver::ackno() const {
+optional<WrappingInt32> TCPReceiver::ackno() const {    //希望收到的下一个字节的seqno
     if(!_syn)   return nullopt;
     WrappingInt32 ack_no = wrap(stream_out().bytes_written()+1, WrappingInt32(_isn));
 	return stream_out().input_ended() ? ack_no+1 : ack_no;	

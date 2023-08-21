@@ -1,44 +1,36 @@
-t_wrapping_ints_cmp 32 0.000340555
-t_wrapping_ints_unwrap 20 0.000185267
-t_wrapping_ints_wrap 30 8.90399e-05
-t_wrapping_ints_roundtrip 25 0.00377634
-t_recv_connect 5 0
-t_recv_transmit 5 0
-t_recv_window 5 0
-t_recv_reorder 5 0
-t_recv_close 5 0
-t_recv_special 5 0
-t_send_connect 0 0
-t_send_transmit 0 0
-t_send_retx 0 0
-t_send_window 0 0
-t_send_ack 0 0
-t_send_close 0 0
-t_send_extra 0 0
+t_wrapping_ints_cmp 45 3.94279e-05
+t_wrapping_ints_unwrap 33 3.87402e-05
+t_wrapping_ints_wrap 43 2.52872e-05
+t_wrapping_ints_roundtrip 38 0.00226309
+t_recv_connect 18 0.000115441
+t_recv_transmit 18 0.00408998
+t_recv_window 18 9.50421e-05
+t_recv_reorder 18 9.2263e-05
+t_recv_close 18 7.64272e-05
+t_recv_special 18 8.29278e-05
+t_send_connect 8 0.000177435
+t_send_transmit 8 0.00689296
+t_send_retx 8 0.000251142
+t_send_window 5 0.00485339
+t_send_ack 8 0.000266837
+t_send_close 4 0.000536894
+t_send_extra 2 0.00206218
 <<<<<<< 0 0
-t_strm_reassem_single 0 0
-t_strm_reassem_seq 0 0
-t_strm_reassem_dup 0 0
-t_strm_reassem_holes 0 0
-t_strm_reassem_many 0 0
-t_strm_reassem_overlapping 0 0
-t_strm_reassem_win 0 0
-t_strm_reassem_cap 0 0
-t_byte_stream_construction 9 0.000321247
-t_byte_stream_one_write 9 0.000151055
-t_byte_stream_two_writes 9 0.00022093
-t_byte_stream_capacity 8 0.0602043
-t_byte_stream_many_writes 9 0.000577797
+t_strm_reassem_single 14 8.99401e-05
+t_strm_reassem_seq 14 0.000124959
+t_strm_reassem_dup 14 0.000611977
+t_strm_reassem_holes 14 0.000172442
+t_strm_reassem_many 14 0.00494121
+t_strm_reassem_overlapping 14 0.000122623
+t_strm_reassem_win 14 0.00491935
+t_strm_reassem_cap 14 0.00871636
+t_byte_stream_construction 23 6.9168e-05
+t_byte_stream_one_write 23 5.25119e-05
+t_byte_stream_two_writes 23 5.12914e-05
+t_byte_stream_capacity 22 0.0238074
+t_byte_stream_many_writes 23 0.00022752
 t_webget 6 0.271567
-t_address_dt 6 0.000361169
-t_parser_dt 6 0.000161526
-t_socket_dt 6 0.000354184
+t_address_dt 20 0.000291712
+t_parser_dt 20 6.95229e-05
+t_socket_dt 20 0.000122126
 ---
-t_strm_reassem_single
-t_strm_reassem_seq
-t_strm_reassem_dup
-t_strm_reassem_holes
-t_strm_reassem_many
-t_strm_reassem_overlapping
-t_strm_reassem_win
-t_strm_reassem_cap

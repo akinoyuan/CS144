@@ -28,28 +28,43 @@ uint64_t TCPSender::bytes_in_flight() const { return _bytes_in_flight; }
 
 void TCPSender::fill_window() {
     if(_fin_sent) return;               //已结束
+    if(!_syn_sent){                     //发送syn
+        TCPSegment seg = TCPSegment();
+        seg.header().syn = true;
+        _syn_sent = true;
+        seg.header().seqno = wrap(_next_seqno,_isn);
+        _sendSegments(seg);
+        return;
+    }
+    if(_stream.eof()&&bytes_in_flight()<_window_size){                      //输入结束（上一条segment放不下FIN
+        TCPSegment seg = TCPSegment();
+        seg.header().fin = true;
+        _fin_sent = true;
+        seg.header().seqno = wrap(_next_seqno,_isn);
+        _sendSegments(seg);
+        return;
+    }
     while(bytes_in_flight()<_window_size&&!_stream.buffer_empty()){ //输入流不为空，接收窗口未满
         TCPSegment seg = TCPSegment();
-        if(!_syn_sent){
-            seg.header().syn = true;
-            _syn_sent = true;
-        }
-        size_t len = min(_window_size-bytes_in_flight()-seg.length_in_sequence_space(), TCPConfig::MAX_PAYLOAD_SIZE); //?这几个无符号数减下来会不会溢出？
+        size_t len = min(_window_size-bytes_in_flight(), TCPConfig::MAX_PAYLOAD_SIZE); //?这几个无符号数减下来会不会溢出？
         seg.header().seqno = wrap(_next_seqno,_isn);
         seg.payload() = _stream.read(len);
-        if(_stream.eof()&&len>=seg.length_in_sequence_space()+1){    //输入结束且空间足以放入fin
+        if(_stream.eof()&&_window_size-bytes_in_flight()>=seg.length_in_sequence_space()+1){    //输入结束且空间足以放入fin
             seg.header().fin = true;
             _fin_sent = true;
         }
-        //发送seg，并计算相关的值
-        _next_seqno += seg.length_in_sequence_space();
-        _bytes_in_flight += seg.length_in_sequence_space();
-        _segments_out.push(seg);
-        _outstanding_segments.push(seg);
-        if(!_timer_on){
-            _time_passed = 0;
-            _timer_on = true;
-        }
+        _sendSegments(seg);
+    }
+}
+
+void TCPSender::_sendSegments(TCPSegment seg) {
+    _next_seqno += seg.length_in_sequence_space();
+    _bytes_in_flight += seg.length_in_sequence_space();
+    _segments_out.push(seg);
+    _outstanding_segments.push(seg);
+    if(!_timer_on){
+        _time_passed = 0;
+        _timer_on = true;
     }
 }
 
@@ -57,10 +72,11 @@ void TCPSender::fill_window() {
 //! \param window_size The remote receiver's advertised window size
 void TCPSender::ack_received(const WrappingInt32 ackno, const uint16_t window_size) {
     //首先判断收到的ackno是否有效
+    if(_outstanding_segments.empty()) return;
     uint64_t abs_ackno = unwrap(ackno, _isn, _next_seqno);
     TCPSegment front_seg = _outstanding_segments.front();
     uint64_t front_abs_seqno = unwrap(front_seg.header().seqno, _isn, _next_seqno);
-    if(!(abs_ackno<_next_seqno && abs_ackno>=front_abs_seqno)) return;
+    if(!(abs_ackno<=_next_seqno && abs_ackno>=front_abs_seqno)) return;
     if(window_size==0){
         _window_size = 1;
         _backoff = false;
@@ -79,7 +95,7 @@ void TCPSender::ack_received(const WrappingInt32 ackno, const uint16_t window_si
             _bytes_in_flight -= front_seg.length_in_sequence_space(); 
         }else break;
     }
-    if(!_outstanding_segments.empty()){                 //传输中队列为空，关闭计时器
+    if(_outstanding_segments.empty()){                 //传输中队列为空，关闭计时器
         _timer_on = false;
         _time_passed = 0;
     }

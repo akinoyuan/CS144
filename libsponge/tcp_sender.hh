@@ -42,6 +42,7 @@ class TCPSender {
     bool _syn_sent = false;       //syn和fin标志是否发送
     bool _fin_sent = false;   
     size_t _time_passed = 0;      //记录发送seg后过去的时间，与_RTO比较，控制超时重传
+    void _sendSegments(TCPSegment seg);
 
   public:
     //! Initialize a TCPSender
