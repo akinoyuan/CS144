@@ -71,12 +71,6 @@ void TCPSender::_sendSegments(TCPSegment seg) {
 //! \param ackno The remote receiver's ackno (acknowledgment number)
 //! \param window_size The remote receiver's advertised window size
 void TCPSender::ack_received(const WrappingInt32 ackno, const uint16_t window_size) {
-    //首先判断收到的ackno是否有效
-    if(_outstanding_segments.empty()) return;
-    uint64_t abs_ackno = unwrap(ackno, _isn, _next_seqno);
-    TCPSegment front_seg = _outstanding_segments.front();
-    uint64_t front_abs_seqno = unwrap(front_seg.header().seqno, _isn, _next_seqno);
-    if(!(abs_ackno<=_next_seqno && abs_ackno>=front_abs_seqno)) return;
     if(window_size==0){
         _window_size = 1;
         _backoff = false;
@@ -84,6 +78,12 @@ void TCPSender::ack_received(const WrappingInt32 ackno, const uint16_t window_si
         _window_size = window_size;
         _backoff = true;
     }
+    //首先判断收到的ackno是否有效
+    if(_outstanding_segments.empty()) return;
+    uint64_t abs_ackno = unwrap(ackno, _isn, _next_seqno);
+    TCPSegment front_seg = _outstanding_segments.front();
+    uint64_t front_abs_seqno = unwrap(front_seg.header().seqno, _isn, _next_seqno);
+    if(!(abs_ackno<=_next_seqno && abs_ackno>=front_abs_seqno)) return;
     while(!_outstanding_segments.empty()){
         front_seg = _outstanding_segments.front();
         front_abs_seqno = unwrap(front_seg.header().seqno, _isn, _next_seqno);

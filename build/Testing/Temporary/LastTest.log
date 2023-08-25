@@ -1,17 +1,17 @@
-Start testing: Aug 21 19:31 CST
+Start testing: Aug 25 15:31 CST
 ----------------------------------------------------------
 1/169 Testing: t_wrapping_ints_cmp
 1/169 Test: t_wrapping_ints_cmp
 Command: "/home/name/git_files/build/tests/wrapping_integers_cmp"
 Directory: /home/name/git_files/build
-"t_wrapping_ints_cmp" start time: Aug 21 19:31 CST
+"t_wrapping_ints_cmp" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_cmp" end time: Aug 21 19:31 CST
+"t_wrapping_ints_cmp" end time: Aug 25 15:31 CST
 "t_wrapping_ints_cmp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -19,14 +19,14 @@ Test Passed.
 2/169 Test: t_wrapping_ints_unwrap
 Command: "/home/name/git_files/build/tests/wrapping_integers_unwrap"
 Directory: /home/name/git_files/build
-"t_wrapping_ints_unwrap" start time: Aug 21 19:31 CST
+"t_wrapping_ints_unwrap" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_unwrap" end time: Aug 21 19:31 CST
+"t_wrapping_ints_unwrap" end time: Aug 25 15:31 CST
 "t_wrapping_ints_unwrap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -34,14 +34,14 @@ Test Passed.
 3/169 Test: t_wrapping_ints_wrap
 Command: "/home/name/git_files/build/tests/wrapping_integers_wrap"
 Directory: /home/name/git_files/build
-"t_wrapping_ints_wrap" start time: Aug 21 19:31 CST
+"t_wrapping_ints_wrap" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_wrap" end time: Aug 21 19:31 CST
+"t_wrapping_ints_wrap" end time: Aug 25 15:31 CST
 "t_wrapping_ints_wrap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -49,14 +49,14 @@ Test Passed.
 4/169 Test: t_wrapping_ints_roundtrip
 Command: "/home/name/git_files/build/tests/wrapping_integers_roundtrip"
 Directory: /home/name/git_files/build
-"t_wrapping_ints_roundtrip" start time: Aug 21 19:31 CST
+"t_wrapping_ints_roundtrip" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.09 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_roundtrip" end time: Aug 21 19:31 CST
+"t_wrapping_ints_roundtrip" end time: Aug 25 15:31 CST
 "t_wrapping_ints_roundtrip" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -64,14 +64,14 @@ Test Passed.
 5/169 Test: t_recv_connect
 Command: "/home/name/git_files/build/tests/recv_connect"
 Directory: /home/name/git_files/build
-"t_recv_connect" start time: Aug 21 19:31 CST
+"t_recv_connect" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_connect" end time: Aug 21 19:31 CST
+"t_recv_connect" end time: Aug 25 15:31 CST
 "t_recv_connect" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -79,14 +79,14 @@ Test Passed.
 6/169 Test: t_recv_transmit
 Command: "/home/name/git_files/build/tests/recv_transmit"
 Directory: /home/name/git_files/build
-"t_recv_transmit" start time: Aug 21 19:31 CST
+"t_recv_transmit" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.07 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_transmit" end time: Aug 21 19:31 CST
+"t_recv_transmit" end time: Aug 25 15:31 CST
 "t_recv_transmit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -94,14 +94,14 @@ Test Passed.
 7/169 Test: t_recv_window
 Command: "/home/name/git_files/build/tests/recv_window"
 Directory: /home/name/git_files/build
-"t_recv_window" start time: Aug 21 19:31 CST
+"t_recv_window" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_window" end time: Aug 21 19:31 CST
+"t_recv_window" end time: Aug 25 15:31 CST
 "t_recv_window" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -109,14 +109,14 @@ Test Passed.
 8/169 Test: t_recv_reorder
 Command: "/home/name/git_files/build/tests/recv_reorder"
 Directory: /home/name/git_files/build
-"t_recv_reorder" start time: Aug 21 19:31 CST
+"t_recv_reorder" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_reorder" end time: Aug 21 19:31 CST
+"t_recv_reorder" end time: Aug 25 15:31 CST
 "t_recv_reorder" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -124,14 +124,14 @@ Test Passed.
 9/169 Test: t_recv_close
 Command: "/home/name/git_files/build/tests/recv_close"
 Directory: /home/name/git_files/build
-"t_recv_close" start time: Aug 21 19:31 CST
+"t_recv_close" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_close" end time: Aug 21 19:31 CST
+"t_recv_close" end time: Aug 25 15:31 CST
 "t_recv_close" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,14 +139,14 @@ Test Passed.
 10/169 Test: t_recv_special
 Command: "/home/name/git_files/build/tests/recv_special"
 Directory: /home/name/git_files/build
-"t_recv_special" start time: Aug 21 19:31 CST
+"t_recv_special" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_special" end time: Aug 21 19:31 CST
+"t_recv_special" end time: Aug 25 15:31 CST
 "t_recv_special" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -154,14 +154,14 @@ Test Passed.
 11/169 Test: t_send_connect
 Command: "/home/name/git_files/build/tests/send_connect"
 Directory: /home/name/git_files/build
-"t_send_connect" start time: Aug 21 19:31 CST
+"t_send_connect" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_connect" end time: Aug 21 19:31 CST
+"t_send_connect" end time: Aug 25 15:31 CST
 "t_send_connect" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -169,14 +169,14 @@ Test Passed.
 12/169 Test: t_send_transmit
 Command: "/home/name/git_files/build/tests/send_transmit"
 Directory: /home/name/git_files/build
-"t_send_transmit" start time: Aug 21 19:31 CST
+"t_send_transmit" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.06 sec
+Test time =   0.05 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_transmit" end time: Aug 21 19:31 CST
+"t_send_transmit" end time: Aug 25 15:31 CST
 "t_send_transmit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -184,14 +184,14 @@ Test Passed.
 13/169 Test: t_send_retx
 Command: "/home/name/git_files/build/tests/send_retx"
 Directory: /home/name/git_files/build
-"t_send_retx" start time: Aug 21 19:31 CST
+"t_send_retx" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_retx" end time: Aug 21 19:31 CST
+"t_send_retx" end time: Aug 25 15:31 CST
 "t_send_retx" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -199,14 +199,14 @@ Test Passed.
 14/169 Test: t_send_window
 Command: "/home/name/git_files/build/tests/send_window"
 Directory: /home/name/git_files/build
-"t_send_window" start time: Aug 21 19:31 CST
+"t_send_window" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_window" end time: Aug 21 19:31 CST
+"t_send_window" end time: Aug 25 15:31 CST
 "t_send_window" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -214,14 +214,14 @@ Test Passed.
 15/169 Test: t_send_ack
 Command: "/home/name/git_files/build/tests/send_ack"
 Directory: /home/name/git_files/build
-"t_send_ack" start time: Aug 21 19:31 CST
+"t_send_ack" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_ack" end time: Aug 21 19:31 CST
+"t_send_ack" end time: Aug 25 15:31 CST
 "t_send_ack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -229,14 +229,14 @@ Test Passed.
 16/169 Test: t_send_close
 Command: "/home/name/git_files/build/tests/send_close"
 Directory: /home/name/git_files/build
-"t_send_close" start time: Aug 21 19:31 CST
+"t_send_close" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_close" end time: Aug 21 19:31 CST
+"t_send_close" end time: Aug 25 15:31 CST
 "t_send_close" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -244,14 +244,14 @@ Test Passed.
 17/169 Test: t_send_extra
 Command: "/home/name/git_files/build/tests/send_extra"
 Directory: /home/name/git_files/build
-"t_send_extra" start time: Aug 21 19:31 CST
+"t_send_extra" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_extra" end time: Aug 21 19:31 CST
+"t_send_extra" end time: Aug 25 15:31 CST
 "t_send_extra" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -259,14 +259,14 @@ Test Passed.
 18/169 Test: t_strm_reassem_single
 Command: "/home/name/git_files/build/tests/fsm_stream_reassembler_single"
 Directory: /home/name/git_files/build
-"t_strm_reassem_single" start time: Aug 21 19:31 CST
+"t_strm_reassem_single" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_single" end time: Aug 21 19:31 CST
+"t_strm_reassem_single" end time: Aug 25 15:31 CST
 "t_strm_reassem_single" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -274,14 +274,14 @@ Test Passed.
 19/169 Test: t_strm_reassem_seq
 Command: "/home/name/git_files/build/tests/fsm_stream_reassembler_seq"
 Directory: /home/name/git_files/build
-"t_strm_reassem_seq" start time: Aug 21 19:31 CST
+"t_strm_reassem_seq" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_seq" end time: Aug 21 19:31 CST
+"t_strm_reassem_seq" end time: Aug 25 15:31 CST
 "t_strm_reassem_seq" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -289,14 +289,14 @@ Test Passed.
 20/169 Test: t_strm_reassem_dup
 Command: "/home/name/git_files/build/tests/fsm_stream_reassembler_dup"
 Directory: /home/name/git_files/build
-"t_strm_reassem_dup" start time: Aug 21 19:31 CST
+"t_strm_reassem_dup" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_dup" end time: Aug 21 19:31 CST
+"t_strm_reassem_dup" end time: Aug 25 15:31 CST
 "t_strm_reassem_dup" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -304,14 +304,14 @@ Test Passed.
 21/169 Test: t_strm_reassem_holes
 Command: "/home/name/git_files/build/tests/fsm_stream_reassembler_holes"
 Directory: /home/name/git_files/build
-"t_strm_reassem_holes" start time: Aug 21 19:31 CST
+"t_strm_reassem_holes" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_holes" end time: Aug 21 19:31 CST
+"t_strm_reassem_holes" end time: Aug 25 15:31 CST
 "t_strm_reassem_holes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -319,14 +319,14 @@ Test Passed.
 22/169 Test: t_strm_reassem_many
 Command: "/home/name/git_files/build/tests/fsm_stream_reassembler_many"
 Directory: /home/name/git_files/build
-"t_strm_reassem_many" start time: Aug 21 19:31 CST
+"t_strm_reassem_many" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.07 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_many" end time: Aug 21 19:31 CST
+"t_strm_reassem_many" end time: Aug 25 15:31 CST
 "t_strm_reassem_many" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -334,14 +334,14 @@ Test Passed.
 23/169 Test: t_strm_reassem_overlapping
 Command: "/home/name/git_files/build/tests/fsm_stream_reassembler_overlapping"
 Directory: /home/name/git_files/build
-"t_strm_reassem_overlapping" start time: Aug 21 19:31 CST
+"t_strm_reassem_overlapping" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_overlapping" end time: Aug 21 19:31 CST
+"t_strm_reassem_overlapping" end time: Aug 25 15:31 CST
 "t_strm_reassem_overlapping" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -349,14 +349,14 @@ Test Passed.
 24/169 Test: t_strm_reassem_win
 Command: "/home/name/git_files/build/tests/fsm_stream_reassembler_win"
 Directory: /home/name/git_files/build
-"t_strm_reassem_win" start time: Aug 21 19:31 CST
+"t_strm_reassem_win" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.07 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_win" end time: Aug 21 19:31 CST
+"t_strm_reassem_win" end time: Aug 25 15:31 CST
 "t_strm_reassem_win" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -364,14 +364,14 @@ Test Passed.
 25/169 Test: t_strm_reassem_cap
 Command: "/home/name/git_files/build/tests/fsm_stream_reassembler_cap"
 Directory: /home/name/git_files/build
-"t_strm_reassem_cap" start time: Aug 21 19:31 CST
+"t_strm_reassem_cap" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.12 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_cap" end time: Aug 21 19:31 CST
+"t_strm_reassem_cap" end time: Aug 25 15:31 CST
 "t_strm_reassem_cap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -379,14 +379,14 @@ Test Passed.
 26/169 Test: t_byte_stream_construction
 Command: "/home/name/git_files/build/tests/byte_stream_construction"
 Directory: /home/name/git_files/build
-"t_byte_stream_construction" start time: Aug 21 19:31 CST
+"t_byte_stream_construction" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_construction" end time: Aug 21 19:31 CST
+"t_byte_stream_construction" end time: Aug 25 15:31 CST
 "t_byte_stream_construction" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -394,14 +394,14 @@ Test Passed.
 27/169 Test: t_byte_stream_one_write
 Command: "/home/name/git_files/build/tests/byte_stream_one_write"
 Directory: /home/name/git_files/build
-"t_byte_stream_one_write" start time: Aug 21 19:31 CST
+"t_byte_stream_one_write" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_one_write" end time: Aug 21 19:31 CST
+"t_byte_stream_one_write" end time: Aug 25 15:31 CST
 "t_byte_stream_one_write" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -409,14 +409,14 @@ Test Passed.
 28/169 Test: t_byte_stream_two_writes
 Command: "/home/name/git_files/build/tests/byte_stream_two_writes"
 Directory: /home/name/git_files/build
-"t_byte_stream_two_writes" start time: Aug 21 19:31 CST
+"t_byte_stream_two_writes" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_two_writes" end time: Aug 21 19:31 CST
+"t_byte_stream_two_writes" end time: Aug 25 15:31 CST
 "t_byte_stream_two_writes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -424,14 +424,14 @@ Test Passed.
 29/169 Test: t_byte_stream_capacity
 Command: "/home/name/git_files/build/tests/byte_stream_capacity"
 Directory: /home/name/git_files/build
-"t_byte_stream_capacity" start time: Aug 21 19:31 CST
+"t_byte_stream_capacity" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.52 sec
+Test time =   0.48 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_capacity" end time: Aug 21 19:31 CST
+"t_byte_stream_capacity" end time: Aug 25 15:31 CST
 "t_byte_stream_capacity" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -439,29 +439,552 @@ Test Passed.
 30/169 Test: t_byte_stream_many_writes
 Command: "/home/name/git_files/build/tests/byte_stream_many_writes"
 Directory: /home/name/git_files/build
-"t_byte_stream_many_writes" start time: Aug 21 19:31 CST
+"t_byte_stream_many_writes" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_many_writes" end time: Aug 21 19:31 CST
+"t_byte_stream_many_writes" end time: Aug 25 15:31 CST
 "t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/169 Testing: t_webget
+31/169 Test: t_webget
+Command: "/home/name/git_files/tests/webget_t.sh"
+Directory: /home/name/git_files/build
+"t_webget" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+Function called: get_URL(HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+cs144.keithw.org, /nph-hasher/xyzzy).
+Warning: get_URL() has not been implemented yet.
+<end of output>
+Test time =   1.07 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Aug 25 15:31 CST
+"t_webget" time elapsed: 00:00:01
+----------------------------------------------------------
+
+34/169 Testing: t_tcp_parser
+34/169 Test: t_tcp_parser
+Command: "/home/name/git_files/build/tests/tcp_parser" "/home/name/git_files/tests/ipv4_parser.data"
+Directory: /home/name/git_files/build
+"t_tcp_parser" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"t_tcp_parser" end time: Aug 25 15:31 CST
+"t_tcp_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/169 Testing: t_ipv4_parser
+35/169 Test: t_ipv4_parser
+Command: "/home/name/git_files/build/tests/ipv4_parser" "/home/name/git_files/tests/ipv4_parser.data"
+Directory: /home/name/git_files/build
+"t_ipv4_parser" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_parser" end time: Aug 25 15:31 CST
+"t_ipv4_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/169 Testing: t_active_close
+36/169 Test: t_active_close
+Command: "/home/name/git_files/build/tests/fsm_active_close"
+Directory: /home/name/git_files/build
+"t_active_close" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_active_close" end time: Aug 25 15:31 CST
+"t_active_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/169 Testing: t_passive_close
+37/169 Test: t_passive_close
+Command: "/home/name/git_files/build/tests/fsm_passive_close"
+Directory: /home/name/git_files/build
+"t_passive_close" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_passive_close" end time: Aug 25 15:31 CST
+"t_passive_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/169 Testing: t_ack_rst
+39/169 Test: t_ack_rst
+Command: "/home/name/git_files/build/tests/fsm_ack_rst_relaxed"
+Directory: /home/name/git_files/build
+"t_ack_rst" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+Test 1
+Test 2
+Test 3
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Test 4
+Test 5
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_ack_rst" end time: Aug 25 15:31 CST
+"t_ack_rst" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/169 Testing: t_ack_rst_win
+41/169 Test: t_ack_rst_win
+Command: "/home/name/git_files/build/tests/fsm_ack_rst_win_relaxed"
+Directory: /home/name/git_files/build
+"t_ack_rst_win" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_ack_rst_win" end time: Aug 25 15:31 CST
+"t_ack_rst_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/169 Testing: t_connect
+43/169 Test: t_connect
+Command: "/home/name/git_files/build/tests/fsm_connect_relaxed"
+Directory: /home/name/git_files/build
+"t_connect" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_connect" end time: Aug 25 15:31 CST
+"t_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/169 Testing: t_listen
+45/169 Test: t_listen
+Command: "/home/name/git_files/build/tests/fsm_listen_relaxed"
+Directory: /home/name/git_files/build
+"t_listen" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_listen" end time: Aug 25 15:31 CST
+"t_listen" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/169 Testing: t_winsize
+46/169 Test: t_winsize
+Command: "/home/name/git_files/build/tests/fsm_winsize"
+Directory: /home/name/git_files/build
+"t_winsize" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"t_winsize" end time: Aug 25 15:31 CST
+"t_winsize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/169 Testing: t_retx
+48/169 Test: t_retx
+Command: "/home/name/git_files/build/tests/fsm_retx_relaxed"
+Directory: /home/name/git_files/build
+"t_retx" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_retx" end time: Aug 25 15:31 CST
+"t_retx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/169 Testing: t_retx_win
+49/169 Test: t_retx_win
+Command: "/home/name/git_files/build/tests/fsm_retx_win"
+Directory: /home/name/git_files/build
+"t_retx_win" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_retx_win" end time: Aug 25 15:31 CST
+"t_retx_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/169 Testing: t_loopback
+50/169 Test: t_loopback
+Command: "/home/name/git_files/build/tests/fsm_loopback"
+Directory: /home/name/git_files/build
+"t_loopback" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"t_loopback" end time: Aug 25 15:31 CST
+"t_loopback" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/169 Testing: t_loopback_win
+51/169 Test: t_loopback_win
+Command: "/home/name/git_files/build/tests/fsm_loopback_win"
+Directory: /home/name/git_files/build
+"t_loopback_win" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"t_loopback_win" end time: Aug 25 15:31 CST
+"t_loopback_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/169 Testing: t_reorder
+52/169 Test: t_reorder
+Command: "/home/name/git_files/build/tests/fsm_reorder"
+Directory: /home/name/git_files/build
+"t_reorder" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"t_reorder" end time: Aug 25 15:31 CST
+"t_reorder" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 53/169 Testing: t_address_dt
 53/169 Test: t_address_dt
 Command: "/home/name/git_files/build/doctests/address_dt"
 Directory: /home/name/git_files/build
-"t_address_dt" start time: Aug 21 19:31 CST
+"t_address_dt" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_address_dt" end time: Aug 21 19:31 CST
+"t_address_dt" end time: Aug 25 15:31 CST
 "t_address_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -469,14 +992,14 @@ Test Passed.
 54/169 Test: t_parser_dt
 Command: "/home/name/git_files/build/doctests/parser_dt"
 Directory: /home/name/git_files/build
-"t_parser_dt" start time: Aug 21 19:31 CST
+"t_parser_dt" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_parser_dt" end time: Aug 21 19:31 CST
+"t_parser_dt" end time: Aug 25 15:31 CST
 "t_parser_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -484,15 +1007,3292 @@ Test Passed.
 55/169 Test: t_socket_dt
 Command: "/home/name/git_files/build/doctests/socket_dt"
 Directory: /home/name/git_files/build
-"t_socket_dt" start time: Aug 21 19:31 CST
+"t_socket_dt" start time: Aug 25 15:31 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_socket_dt" end time: Aug 21 19:31 CST
+"t_socket_dt" end time: Aug 25 15:31 CST
 "t_socket_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Aug 21 19:31 CST
+56/169 Testing: t_udp_client_send
+56/169 Test: t_udp_client_send
+Command: "/home/name/git_files/txrx.sh" "-ucS"
+Directory: /home/name/git_files/build
+"t_udp_client_send" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:24027...
+Successfully connected to 169.254.144.1:24027.
+New connection from 169.254.144.1:56076.
+DEBUG: Outbound stream to 169.254.144.1:56076 finished (DEBUG: Outbound stream to 1169.254.144.1:24027 finished ( byte still in flight).
+33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:24027 finished cleanly.
+DEBUG: Inbound stream from 169.254.144.1:56076 finished cleanly.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:56076169.254.144.1:24027 has been fully acknowledged.
+ has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_send" end time: Aug 25 15:31 CST
+"t_udp_client_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/169 Testing: t_udp_server_send
+57/169 Test: t_udp_server_send
+Command: "/home/name/git_files/txrx.sh" "-usS"
+Directory: /home/name/git_files/build
+"t_udp_server_send" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:31749...
+Successfully connected to 169.254.144.1:31749.
+New connection from 169.254.144.1:45236.
+DEBUG: Outbound stream to 169.254.144.1:31749 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:45236 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:31749 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:45236 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:31749 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:45236 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_send" end time: Aug 25 15:31 CST
+"t_udp_server_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/169 Testing: t_udp_client_recv
+58/169 Test: t_udp_client_recv
+Command: "/home/name/git_files/txrx.sh" "-ucR"
+Directory: /home/name/git_files/build
+"t_udp_client_recv" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:4429...
+Successfully connected to 169.254.144.1:4429.
+New connection from 169.254.144.1:40135.
+DEBUG: Outbound stream to 169.254.144.1:4429 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:40135 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:4429 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:40135 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:4429 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:40135 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_recv" end time: Aug 25 15:31 CST
+"t_udp_client_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/169 Testing: t_udp_server_recv
+59/169 Test: t_udp_server_recv
+Command: "/home/name/git_files/txrx.sh" "-usR"
+Directory: /home/name/git_files/build
+"t_udp_server_recv" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:31662...
+Successfully connected to 169.254.144.1:31662.
+New connection from 169.254.144.1:59997.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:31662 finished (169.254.144.1:59997 finished (33 bytes still in flight).
+1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:31662 finished cleanly.
+DEBUG: Inbound stream from 169.254.144.1:59997 finished cleanly.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:59997169.254.144.1:31662 has been fully acknowledged.
+ has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_recv" end time: Aug 25 15:31 CST
+"t_udp_server_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/169 Testing: t_udp_client_dupl
+60/169 Test: t_udp_client_dupl
+Command: "/home/name/git_files/txrx.sh" "-ucD"
+Directory: /home/name/git_files/build
+"t_udp_client_dupl" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:33610...
+Successfully connected to 169.254.144.1:33610.
+New connection from 169.254.144.1:42894.
+DEBUG: Outbound stream to 169.254.144.1:33610 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:42894 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:33610 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:42894 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:33610 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:42894 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+DEBUG: Waiting for clean shutdown... done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_dupl" end time: Aug 25 15:31 CST
+"t_udp_client_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/169 Testing: t_udp_server_dupl
+61/169 Test: t_udp_server_dupl
+Command: "/home/name/git_files/txrx.sh" "-usD"
+Directory: /home/name/git_files/build
+"t_udp_server_dupl" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:23472...
+Successfully connected to 169.254.144.1:23472.
+New connection from 169.254.144.1:46142.
+DEBUG: Outbound stream to 169.254.144.1:23472 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:46142 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:23472 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:46142 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:23472 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:46142 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_dupl" end time: Aug 25 15:31 CST
+"t_udp_server_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/169 Testing: t_ucS_1M_32k
+62/169 Test: t_ucS_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-ucSd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_ucS_1M_32k" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:15281...
+Successfully connected to 169.254.144.1:15281.
+New connection from 169.254.144.1:52308.
+DEBUG: Outbound stream to 169.254.144.1:52308 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:15281 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:52308 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:15281 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:52308 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:15281 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_1M_32k" end time: Aug 25 15:31 CST
+"t_ucS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/169 Testing: t_ucS_128K_8K
+63/169 Test: t_ucS_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-ucSd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_ucS_128K_8K" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:14870...
+Successfully connected to 169.254.144.1:14870.
+New connection from 169.254.144.1:53730.
+DEBUG: Outbound stream to 169.254.144.1:53730 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:14870 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:53730 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:14870 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:53730 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:14870 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K" end time: Aug 25 15:31 CST
+"t_ucS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/169 Testing: t_ucS_16_1
+64/169 Test: t_ucS_16_1
+Command: "/home/name/git_files/txrx.sh" "-ucSd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_ucS_16_1" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:22228...
+Successfully connected to 169.254.144.1:22228.
+New connection from 169.254.144.1:50373.
+DEBUG: Outbound stream to 169.254.144.1:22228 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:50373 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:22228 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:50373 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:50373 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:22228 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_16_1" end time: Aug 25 15:31 CST
+"t_ucS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/169 Testing: t_ucS_32K_d
+65/169 Test: t_ucS_32K_d
+Command: "/home/name/git_files/txrx.sh" "-ucSd" "32K"
+Directory: /home/name/git_files/build
+"t_ucS_32K_d" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:28003...
+Successfully connected to 169.254.144.1:28003.
+New connection from 169.254.144.1:40647.
+DEBUG: Outbound stream to 169.254.144.1:40647 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:28003 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:40647 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:28003 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:40647 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:28003 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_32K_d" end time: Aug 25 15:31 CST
+"t_ucS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/169 Testing: t_ucR_1M_32k
+66/169 Test: t_ucR_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-ucRd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_ucR_1M_32k" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:33757...
+Successfully connected to 169.254.144.1:33757.
+New connection from 169.254.144.1:58209.
+DEBUG: Outbound stream to 169.254.144.1:33757 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:58209 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:33757 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:58209 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:33757 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:58209 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_1M_32k" end time: Aug 25 15:31 CST
+"t_ucR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/169 Testing: t_ucR_128K_8K
+67/169 Test: t_ucR_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-ucRd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_ucR_128K_8K" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:2767...
+Successfully connected to 169.254.144.1:2767.
+New connection from 169.254.144.1:47154.
+DEBUG: Outbound stream to 169.254.144.1:2767 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:47154 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:2767 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:47154 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:2767 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:47154 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K" end time: Aug 25 15:31 CST
+"t_ucR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/169 Testing: t_ucR_16_1
+68/169 Test: t_ucR_16_1
+Command: "/home/name/git_files/txrx.sh" "-ucRd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_ucR_16_1" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:1373...
+Successfully connected to 169.254.144.1:1373.
+New connection from 169.254.144.1:34612.
+DEBUG: Outbound stream to 169.254.144.1:1373 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:34612 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:1373 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:34612 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:1373 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:34612 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_16_1" end time: Aug 25 15:31 CST
+"t_ucR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/169 Testing: t_ucR_32K_d
+69/169 Test: t_ucR_32K_d
+Command: "/home/name/git_files/txrx.sh" "-ucRd" "32K"
+Directory: /home/name/git_files/build
+"t_ucR_32K_d" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:8168...
+Successfully connected to 169.254.144.1:8168.
+New connection from 169.254.144.1:50896.
+DEBUG: Outbound stream to 169.254.144.1:8168 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:50896 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:8168 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:50896 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:8168 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:50896 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_32K_d" end time: Aug 25 15:31 CST
+"t_ucR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/169 Testing: t_ucD_1M_32k
+70/169 Test: t_ucD_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-ucDd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_ucD_1M_32k" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:3944...
+Successfully connected to 169.254.144.1:3944.
+New connection from 169.254.144.1:55270.
+DEBUG: Outbound stream to 169.254.144.1:3944 finished (31768 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:55270 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3944 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:55270 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:55270 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:3944 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+DEBUG: TCP connection finished cleanly.
+done.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_1M_32k" end time: Aug 25 15:31 CST
+"t_ucD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/169 Testing: t_ucD_128K_8K
+71/169 Test: t_ucD_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-ucDd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_ucD_128K_8K" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:13592...
+Successfully connected to 169.254.144.1:13592.
+New connection from 169.254.144.1:60652.
+DEBUG: Outbound stream to 169.254.144.1:13592 finished (7192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:60652 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from DEBUG: Inbound stream from 169.254.144.1:60652 finished cleanly.
+169.254.144.1:13592 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:60652 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:13592 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K" end time: Aug 25 15:31 CST
+"t_ucD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/169 Testing: t_ucD_16_1
+72/169 Test: t_ucD_16_1
+Command: "/home/name/git_files/txrx.sh" "-ucDd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_ucD_16_1" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:11026...
+Successfully connected to 169.254.144.1:11026.
+New connection from 169.254.144.1:60308.
+DEBUG: Outbound stream to 169.254.144.1:11026 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:60308 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:60308 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:11026 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:11026 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:60308 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_16_1" end time: Aug 25 15:31 CST
+"t_ucD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/169 Testing: t_ucD_32K_d
+73/169 Test: t_ucD_32K_d
+Command: "/home/name/git_files/txrx.sh" "-ucDd" "32K"
+Directory: /home/name/git_files/build
+"t_ucD_32K_d" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:6897...
+Successfully connected to 169.254.144.1:6897.
+New connection from 169.254.144.1:52492.
+DEBUG: Outbound stream to 169.254.144.1:52492 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:6897 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:52492 finished cleanly.
+DEBUG: Inbound stream from 169.254.144.1:6897 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:52492 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:6897 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_32K_d" end time: Aug 25 15:31 CST
+"t_ucD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/169 Testing: t_usS_1M_32k
+74/169 Test: t_usS_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-usSd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_usS_1M_32k" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:16979...
+Successfully connected to 169.254.144.1:16979.
+New connection from 169.254.144.1:55177.
+DEBUG: Outbound stream to 169.254.144.1:16979 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:55177 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:16979 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:55177 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:16979 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:55177 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_1M_32k" end time: Aug 25 15:31 CST
+"t_usS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/169 Testing: t_usS_128K_8K
+75/169 Test: t_usS_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-usSd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_usS_128K_8K" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:24667...
+Successfully connected to 169.254.144.1:24667.
+New connection from 169.254.144.1:53574.
+DEBUG: Outbound stream to 169.254.144.1:24667 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:53574 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:24667 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:53574 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:24667 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:53574 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K" end time: Aug 25 15:31 CST
+"t_usS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/169 Testing: t_usS_16_1
+76/169 Test: t_usS_16_1
+Command: "/home/name/git_files/txrx.sh" "-usSd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_usS_16_1" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:5235...
+Successfully connected to 169.254.144.1:5235.
+New connection from 169.254.144.1:48363.
+DEBUG: Outbound stream to 169.254.144.1:5235 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:48363 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:5235 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:48363 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:5235 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:48363 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_16_1" end time: Aug 25 15:31 CST
+"t_usS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/169 Testing: t_usS_32K_d
+77/169 Test: t_usS_32K_d
+Command: "/home/name/git_files/txrx.sh" "-usSd" "32K"
+Directory: /home/name/git_files/build
+"t_usS_32K_d" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:10475...
+Successfully connected to 169.254.144.1:10475.
+New connection from 169.254.144.1:37466.
+DEBUG: Outbound stream to 169.254.144.1:10475 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:37466 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:10475 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:37466 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:10475 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:37466 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_32K_d" end time: Aug 25 15:31 CST
+"t_usS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/169 Testing: t_usR_1M_32k
+78/169 Test: t_usR_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-usRd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_usR_1M_32k" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:21705...
+Successfully connected to 169.254.144.1:21705.
+New connection from 169.254.144.1:48968.
+DEBUG: Outbound stream to 169.254.144.1:48968 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:21705 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:48968 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:21705 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:48968 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:21705 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_1M_32k" end time: Aug 25 15:31 CST
+"t_usR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/169 Testing: t_usR_128K_8K
+79/169 Test: t_usR_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-usRd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_usR_128K_8K" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:17683...
+Successfully connected to 169.254.144.1:17683.
+New connection from 169.254.144.1:57422.
+DEBUG: Outbound stream to 169.254.144.1:57422 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:17683 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:57422 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:17683 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:57422 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:17683 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K" end time: Aug 25 15:31 CST
+"t_usR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/169 Testing: t_usR_16_1
+80/169 Test: t_usR_16_1
+Command: "/home/name/git_files/txrx.sh" "-usRd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_usR_16_1" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:7704...
+Successfully connected to 169.254.144.1:7704.
+New connection from 169.254.144.1:37905.
+DEBUG: Outbound stream to 169.254.144.1:7704 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:37905 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:7704 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:37905 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:37905 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:7704 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_16_1" end time: Aug 25 15:31 CST
+"t_usR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/169 Testing: t_usR_32K_d
+81/169 Test: t_usR_32K_d
+Command: "/home/name/git_files/txrx.sh" "-usRd" "32K"
+Directory: /home/name/git_files/build
+"t_usR_32K_d" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:26597...
+Successfully connected to 169.254.144.1:26597.
+New connection from 169.254.144.1:54780.
+DEBUG: Outbound stream to 169.254.144.1:54780 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:26597 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:54780 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:26597 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:54780 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:26597 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_32K_d" end time: Aug 25 15:31 CST
+"t_usR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/169 Testing: t_usD_1M_32k
+82/169 Test: t_usD_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-usDd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_usD_1M_32k" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:8327...
+Successfully connected to 169.254.144.1:8327.
+New connection from 169.254.144.1:42782.
+DEBUG: Outbound stream to 169.254.144.1:8327 finished (31768 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:42782 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:8327 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:42782 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:42782 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:8327 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_1M_32k" end time: Aug 25 15:31 CST
+"t_usD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/169 Testing: t_usD_128K_8K
+83/169 Test: t_usD_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-usDd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_usD_128K_8K" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:12527...
+Successfully connected to 169.254.144.1:12527.
+New connection from 169.254.144.1:38518.
+DEBUG: Outbound stream to 169.254.144.1:38518 finished (7192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:12527 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:38518 finished cleanly.
+DEBUG: Inbound stream from 169.254.144.1:12527 finished cleanly.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:38518169.254.144.1:12527 has been fully acknowledged.
+ has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K" end time: Aug 25 15:31 CST
+"t_usD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/169 Testing: t_usD_16_1
+84/169 Test: t_usD_16_1
+Command: "/home/name/git_files/txrx.sh" "-usDd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_usD_16_1" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:28658...
+Successfully connected to 169.254.144.1:28658.
+New connection from 169.254.144.1:46393.
+DEBUG: Outbound stream to 169.254.144.1:28658 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:46393 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:46393 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:28658 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:28658 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:46393 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+DEBUG: Waiting for clean shutdown... done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_16_1" end time: Aug 25 15:31 CST
+"t_usD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/169 Testing: t_usD_32K_d
+85/169 Test: t_usD_32K_d
+Command: "/home/name/git_files/txrx.sh" "-usDd" "32K"
+Directory: /home/name/git_files/build
+"t_usD_32K_d" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:12428...
+Successfully connected to 169.254.144.1:12428.
+New connection from 169.254.144.1:34771.
+DEBUG: Outbound stream to 169.254.144.1:12428 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:34771 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:12428 finished cleanly.
+DEBUG: Inbound stream from 169.254.144.1:34771 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:12428 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:34771 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_32K_d" end time: Aug 25 15:31 CST
+"t_usD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/169 Testing: t_ucS_128K_8K_l
+86/169 Test: t_ucS_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-ucSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_ucS_128K_8K_l" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:24962...
+Successfully connected to 169.254.144.1:24962.
+New connection from 169.254.144.1:33326.
+DEBUG: Outbound stream to 169.254.144.1:33326 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:24962 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:33326 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:24962 finished (8000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:33326 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:24962 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_l" end time: Aug 25 15:31 CST
+"t_ucS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/169 Testing: t_ucS_128K_8K_L
+87/169 Test: t_ucS_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-ucSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_ucS_128K_8K_L" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:27638...
+Successfully connected to 169.254.144.1:27638.
+New connection from 169.254.144.1:37216.
+DEBUG: Outbound stream to 169.254.144.1:37216 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:27638 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:37216 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:27638 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:37216 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:27638 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.68 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_L" end time: Aug 25 15:31 CST
+"t_ucS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/169 Testing: t_ucS_128K_8K_lL
+88/169 Test: t_ucS_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-ucSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_ucS_128K_8K_lL" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:1405...
+Successfully connected to 169.254.144.1:1405.
+New connection from 169.254.144.1:51372.
+DEBUG: Outbound stream to 169.254.144.1:51372 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:1405 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:51372 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:1405 finished (7000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:51372 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:1405 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_lL" end time: Aug 25 15:31 CST
+"t_ucS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/169 Testing: t_ucR_128K_8K_l
+89/169 Test: t_ucR_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-ucRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_ucR_128K_8K_l" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:14658...
+Successfully connected to 169.254.144.1:14658.
+New connection from 169.254.144.1:52821.
+DEBUG: Outbound stream to 169.254.144.1:14658 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:52821 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:14658 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:52821 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:14658 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:52821 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_l" end time: Aug 25 15:31 CST
+"t_ucR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/169 Testing: t_ucR_128K_8K_L
+90/169 Test: t_ucR_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-ucRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_ucR_128K_8K_L" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:5227...
+Successfully connected to 169.254.144.1:5227.
+New connection from 169.254.144.1:42578.
+DEBUG: Outbound stream to 169.254.144.1:5227 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:42578 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:5227 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:42578 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:5227 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:42578 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_L" end time: Aug 25 15:31 CST
+"t_ucR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/169 Testing: t_ucR_128K_8K_lL
+91/169 Test: t_ucR_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-ucRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_ucR_128K_8K_lL" start time: Aug 25 15:31 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:14006...
+Successfully connected to 169.254.144.1:14006.
+New connection from 169.254.144.1:49194.
+DEBUG: Outbound stream to 169.254.144.1:14006 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:49194 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:14006 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:49194 finished (8191 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:14006 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:49194 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_ucR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+92/169 Testing: t_ucD_128K_8K_l
+92/169 Test: t_ucD_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-ucDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_ucD_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:30836...
+Successfully connected to 169.254.144.1:30836.
+New connection from 169.254.144.1:38523.
+DEBUG: Outbound stream to 169.254.144.1:30836 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:38523 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:30836 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:38523 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:30836 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:38523 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_l" end time: Aug 25 15:32 CST
+"t_ucD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/169 Testing: t_ucD_128K_8K_L
+93/169 Test: t_ucD_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-ucDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_ucD_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:12737...
+Successfully connected to 169.254.144.1:12737.
+New connection from 169.254.144.1:59094.
+DEBUG: Outbound stream to 169.254.144.1:59094 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:12737 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:59094 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:12737 finished (6001 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:59094 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:12737 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_L" end time: Aug 25 15:32 CST
+"t_ucD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/169 Testing: t_ucD_128K_8K_lL
+94/169 Test: t_ucD_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-ucDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_ucD_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:29585...
+Successfully connected to 169.254.144.1:29585.
+New connection from 169.254.144.1:47567.
+DEBUG: Outbound stream to 169.254.144.1:47567 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:29585 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:29585 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:47567 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:47567 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:29585 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_ucD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+95/169 Testing: t_usS_128K_8K_l
+95/169 Test: t_usS_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-usSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_usS_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:31589...
+Successfully connected to 169.254.144.1:31589.
+New connection from 169.254.144.1:43431.
+DEBUG: Outbound stream to 169.254.144.1:31589 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:43431 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:31589 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:43431 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:31589 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:43431 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_l" end time: Aug 25 15:32 CST
+"t_usS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+96/169 Testing: t_usS_128K_8K_L
+96/169 Test: t_usS_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-usSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_usS_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:23560...
+Successfully connected to 169.254.144.1:23560.
+New connection from 169.254.144.1:34485.
+DEBUG: Outbound stream to 169.254.144.1:23560 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:34485 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:23560 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:34485 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:23560 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:34485 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.47 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_L" end time: Aug 25 15:32 CST
+"t_usS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+97/169 Testing: t_usS_128K_8K_lL
+97/169 Test: t_usS_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-usSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_usS_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:22711...
+Successfully connected to 169.254.144.1:22711.
+New connection from 169.254.144.1:46985.
+DEBUG: Outbound stream to 169.254.144.1:22711 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:46985 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:22711 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:46985 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:22711 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:46985 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.45 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_usS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+98/169 Testing: t_usR_128K_8K_l
+98/169 Test: t_usR_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-usRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_usR_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:17789...
+Successfully connected to 169.254.144.1:17789.
+New connection from 169.254.144.1:45638.
+DEBUG: Outbound stream to 169.254.144.1:45638 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:17789 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:45638 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:17789 finished (8000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:45638 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:17789 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_l" end time: Aug 25 15:32 CST
+"t_usR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+99/169 Testing: t_usR_128K_8K_L
+99/169 Test: t_usR_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-usRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_usR_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:17987...
+Successfully connected to 169.254.144.1:17987.
+New connection from 169.254.144.1:55151.
+DEBUG: Outbound stream to 169.254.144.1:55151 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:17987 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:55151 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:17987 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:55151 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:17987 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_L" end time: Aug 25 15:32 CST
+"t_usR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+100/169 Testing: t_usR_128K_8K_lL
+100/169 Test: t_usR_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-usRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_usR_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:13127...
+Successfully connected to 169.254.144.1:13127.
+New connection from 169.254.144.1:48473.
+DEBUG: Outbound stream to 169.254.144.1:48473 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:13127 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:48473 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:13127 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:48473 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:13127 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_usR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+101/169 Testing: t_usD_128K_8K_l
+101/169 Test: t_usD_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-usDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_usD_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:10197...
+Successfully connected to 169.254.144.1:10197.
+New connection from 169.254.144.1:36637.
+DEBUG: Outbound stream to 169.254.144.1:36637 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:10197 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:36637 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:10197 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:36637 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:10197 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.47 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_l" end time: Aug 25 15:32 CST
+"t_usD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+102/169 Testing: t_usD_128K_8K_L
+102/169 Test: t_usD_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-usDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_usD_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:5308...
+Successfully connected to 169.254.144.1:5308.
+New connection from 169.254.144.1:52046.
+DEBUG: Outbound stream to 169.254.144.1:5308 finished (8000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:52046 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:5308 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:52046 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:5308 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:52046 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_L" end time: Aug 25 15:32 CST
+"t_usD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+103/169 Testing: t_usD_128K_8K_lL
+103/169 Test: t_usD_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-usDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_usD_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.1:27023...
+Successfully connected to 169.254.144.1:27023.
+New connection from 169.254.144.1:59380.
+DEBUG: Outbound stream to 169.254.144.1:27023 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:59380 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:59380 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:27023 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:27023 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:59380 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.78 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_usD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+104/169 Testing: t_ipv4_client_send
+104/169 Test: t_ipv4_client_send
+Command: "/home/name/git_files/txrx.sh" "-icS"
+Directory: /home/name/git_files/build
+"t_ipv4_client_send" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:16168...
+Successfully connected to 169.254.145.9:16168.
+New connection from 169.254.145.1:34448.
+DEBUG: Outbound stream to 169.254.145.9:16168 finished (33 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.1:34448 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:34448 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:16168 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:16168 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:34448 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_client_send" end time: Aug 25 15:32 CST
+"t_ipv4_client_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+105/169 Testing: t_ipv4_server_send
+105/169 Test: t_ipv4_server_send
+Command: "/home/name/git_files/txrx.sh" "-isS"
+Directory: /home/name/git_files/build
+"t_ipv4_server_send" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:30699...
+Successfully connected to 169.254.144.9:30699.
+New connection from 169.254.144.1:23034.
+DEBUG: Outbound stream to 169.254.144.9:30699 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:23034 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:23034 finished (33 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.9:30699 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.9:30699 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:23034 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_server_send" end time: Aug 25 15:32 CST
+"t_ipv4_server_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+106/169 Testing: t_ipv4_client_recv
+106/169 Test: t_ipv4_client_recv
+Command: "/home/name/git_files/txrx.sh" "-icR"
+Directory: /home/name/git_files/build
+"t_ipv4_client_recv" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:7376...
+Successfully connected to 169.254.145.9:7376.
+New connection from 169.254.145.1:9640.
+DEBUG: Outbound stream to 169.254.145.9:7376 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:9640 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:9640 finished (33 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.9:7376 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:7376 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:9640 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_client_recv" end time: Aug 25 15:32 CST
+"t_ipv4_client_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+107/169 Testing: t_ipv4_server_recv
+107/169 Test: t_ipv4_server_recv
+Command: "/home/name/git_files/txrx.sh" "-isR"
+Directory: /home/name/git_files/build
+"t_ipv4_server_recv" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:22439...
+Successfully connected to 169.254.144.9:22439.
+New connection from 169.254.144.1:46155.
+DEBUG: Outbound stream to 169.254.144.9:22439 finished (33 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:46155 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:46155 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:22439 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.9:22439 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:46155 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_server_recv" end time: Aug 25 15:32 CST
+"t_ipv4_server_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+108/169 Testing: t_ipv4_client_dupl
+108/169 Test: t_ipv4_client_dupl
+Command: "/home/name/git_files/txrx.sh" "-icD"
+Directory: /home/name/git_files/build
+"t_ipv4_client_dupl" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:1039...
+Successfully connected to 169.254.145.9:1039.
+New connection from 169.254.145.1:522.
+DEBUG: Outbound stream to 169.254.145.9:1039 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:522 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:522 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:1039 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:1039 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:522 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_client_dupl" end time: Aug 25 15:32 CST
+"t_ipv4_client_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+109/169 Testing: t_ipv4_server_dupl
+109/169 Test: t_ipv4_server_dupl
+Command: "/home/name/git_files/txrx.sh" "-isD"
+Directory: /home/name/git_files/build
+"t_ipv4_server_dupl" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:24473...
+Successfully connected to 169.254.144.9:24473.
+New connection from 169.254.144.1:11001.
+DEBUG: Outbound stream to 169.254.144.9:24473 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:11001 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:11001 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:24473 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.9:24473 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:11001 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_server_dupl" end time: Aug 25 15:32 CST
+"t_ipv4_server_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+110/169 Testing: t_icS_1M_32k
+110/169 Test: t_icS_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-icSd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_icS_1M_32k" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:29316...
+Successfully connected to 169.254.145.9:29316.
+New connection from 169.254.145.1:36413.
+DEBUG: Outbound stream to 169.254.145.1:36413 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:29316 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:36413 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:29316 finished (30768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:36413 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:29316 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_1M_32k" end time: Aug 25 15:32 CST
+"t_icS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+111/169 Testing: t_icS_128K_8K
+111/169 Test: t_icS_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-icSd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_icS_128K_8K" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:9988...
+Successfully connected to 169.254.145.9:9988.
+New connection from 169.254.145.1:53840.
+DEBUG: Outbound stream to 169.254.145.1:53840 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:9988 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:53840 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:9988 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:53840 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:9988 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_128K_8K" end time: Aug 25 15:32 CST
+"t_icS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+112/169 Testing: t_icS_16_1
+112/169 Test: t_icS_16_1
+Command: "/home/name/git_files/txrx.sh" "-icSd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_icS_16_1" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:27890...
+Successfully connected to 169.254.145.9:27890.
+New connection from 169.254.145.1:52902.
+DEBUG: Outbound stream to 169.254.145.9:27890 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.145.1:52902 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:27890 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:52902 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.1:52902 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:27890 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_16_1" end time: Aug 25 15:32 CST
+"t_icS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+113/169 Testing: t_icS_32K_d
+113/169 Test: t_icS_32K_d
+Command: "/home/name/git_files/txrx.sh" "-icSd" "32K"
+Directory: /home/name/git_files/build
+"t_icS_32K_d" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:12815...
+Successfully connected to 169.254.145.9:12815.
+New connection from 169.254.145.1:49311.
+DEBUG: Outbound stream to 169.254.145.1:49311 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:12815 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:12815 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.1:49311 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.1:49311 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:12815 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_32K_d" end time: Aug 25 15:32 CST
+"t_icS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+114/169 Testing: t_icR_1M_32k
+114/169 Test: t_icR_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-icRd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_icR_1M_32k" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:15473...
+Successfully connected to 169.254.145.9:15473.
+New connection from 169.254.145.1:59170.
+DEBUG: Outbound stream to 169.254.145.9:15473 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:59170 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:15473 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:59170 finished (30768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:15473 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:59170 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_1M_32k" end time: Aug 25 15:32 CST
+"t_icR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+115/169 Testing: t_icR_128K_8K
+115/169 Test: t_icR_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-icRd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_icR_128K_8K" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:7647...
+Successfully connected to 169.254.145.9:7647.
+New connection from 169.254.145.1:26932.
+DEBUG: Outbound stream to 169.254.145.9:7647 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:26932 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:7647 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:26932 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:7647 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:26932 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_128K_8K" end time: Aug 25 15:32 CST
+"t_icR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+116/169 Testing: t_icR_16_1
+116/169 Test: t_icR_16_1
+Command: "/home/name/git_files/txrx.sh" "-icRd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_icR_16_1" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:19288...
+Successfully connected to 169.254.145.9:19288.
+New connection from 169.254.145.1:48799.
+DEBUG: Outbound stream to 169.254.145.9:19288 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:48799 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:48799 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:19288 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:19288 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:48799 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_16_1" end time: Aug 25 15:32 CST
+"t_icR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+117/169 Testing: t_icR_32K_d
+117/169 Test: t_icR_32K_d
+Command: "/home/name/git_files/txrx.sh" "-icRd" "32K"
+Directory: /home/name/git_files/build
+"t_icR_32K_d" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:19725...
+Successfully connected to 169.254.145.9:19725.
+New connection from 169.254.145.1:46875.
+DEBUG: Outbound stream to 169.254.145.9:19725 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:46875 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.145.9:19725 has been fully acknowledged.
+169.254.145.1:46875 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:19725 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:46875 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_32K_d" end time: Aug 25 15:32 CST
+"t_icR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+118/169 Testing: t_icD_1M_32k
+118/169 Test: t_icD_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-icDd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_icD_1M_32k" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:11266...
+Successfully connected to 169.254.145.9:11266.
+New connection from 169.254.145.1:42879.
+DEBUG: Outbound stream to 169.254.145.1:42879 finished (31768 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.9:11266 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:42879 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:11266 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:11266 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:42879 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_1M_32k" end time: Aug 25 15:32 CST
+"t_icD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+119/169 Testing: t_icD_128K_8K
+119/169 Test: t_icD_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-icDd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_icD_128K_8K" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:11076...
+Successfully connected to 169.254.145.9:11076.
+New connection from 169.254.145.1:12496.
+DEBUG: Outbound stream to 169.254.145.1:12496 finished (7192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.9:11076 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:12496 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:11076 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:11076 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:12496 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_128K_8K" end time: Aug 25 15:32 CST
+"t_icD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+120/169 Testing: t_icD_16_1
+120/169 Test: t_icD_16_1
+Command: "/home/name/git_files/txrx.sh" "-icDd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_icD_16_1" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:17987...
+Successfully connected to 169.254.145.9:17987.
+New connection from 169.254.145.1:53220.
+DEBUG: Outbound stream to 169.254.145.9:17987 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.145.1:53220 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:53220 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:17987 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:17987 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:53220 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_16_1" end time: Aug 25 15:32 CST
+"t_icD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+121/169 Testing: t_icD_32K_d
+121/169 Test: t_icD_32K_d
+Command: "/home/name/git_files/txrx.sh" "-icDd" "32K"
+Directory: /home/name/git_files/build
+"t_icD_32K_d" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:14420...
+Successfully connected to 169.254.145.9:14420.
+New connection from 169.254.145.1:55117.
+DEBUG: Outbound stream to 169.254.145.9:14420 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.1:55117 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from DEBUG: Inbound stream from 169.254.145.1:55117169.254.145.9:14420 finished  finished cleanly.
+cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:14420 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.1:55117 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_32K_d" end time: Aug 25 15:32 CST
+"t_icD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+122/169 Testing: t_isS_1M_32k
+122/169 Test: t_isS_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-isSd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_isS_1M_32k" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:19598...
+Successfully connected to 169.254.144.9:19598.
+New connection from 169.254.144.1:255.
+DEBUG: Outbound stream to 169.254.144.9:19598 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:255 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:19598 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:255 finished (30768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:19598 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:255 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_1M_32k" end time: Aug 25 15:32 CST
+"t_isS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+123/169 Testing: t_isS_128K_8K
+123/169 Test: t_isS_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-isSd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_isS_128K_8K" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:32407...
+Successfully connected to 169.254.144.9:32407.
+New connection from 169.254.144.1:24351.
+DEBUG: Outbound stream to 169.254.144.9:32407 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:24351 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:32407 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:24351 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:32407 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:24351 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_128K_8K" end time: Aug 25 15:32 CST
+"t_isS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+124/169 Testing: t_isS_16_1
+124/169 Test: t_isS_16_1
+Command: "/home/name/git_files/txrx.sh" "-isSd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_isS_16_1" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:28484...
+Successfully connected to 169.254.144.9:28484.
+New connection from 169.254.144.1:50670.
+DEBUG: Outbound stream to 169.254.144.9:28484 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:50670 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:50670 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:28484 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.9:28484 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:50670 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_16_1" end time: Aug 25 15:32 CST
+"t_isS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+125/169 Testing: t_isS_32K_d
+125/169 Test: t_isS_32K_d
+Command: "/home/name/git_files/txrx.sh" "-isSd" "32K"
+Directory: /home/name/git_files/build
+"t_isS_32K_d" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:31177...
+Successfully connected to 169.254.144.9:31177.
+New connection from 169.254.144.1:36626.
+DEBUG: Outbound stream to 169.254.144.9:31177 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:36626 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:31177 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:36626 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:31177 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:36626 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_32K_d" end time: Aug 25 15:32 CST
+"t_isS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+126/169 Testing: t_isR_1M_32k
+126/169 Test: t_isR_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-isRd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_isR_1M_32k" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:24436...
+Successfully connected to 169.254.144.9:24436.
+New connection from 169.254.144.1:6147.
+DEBUG: Outbound stream to 169.254.144.1:6147 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:24436 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:6147 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:24436 finished (30768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:6147 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:24436 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_1M_32k" end time: Aug 25 15:32 CST
+"t_isR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+127/169 Testing: t_isR_128K_8K
+127/169 Test: t_isR_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-isRd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_isR_128K_8K" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:12930...
+Successfully connected to 169.254.144.9:12930.
+New connection from 169.254.144.1:38356.
+DEBUG: Outbound stream to 169.254.144.1:38356 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:12930 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:38356 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:12930 finished (8000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:38356 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:12930 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_128K_8K" end time: Aug 25 15:32 CST
+"t_isR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+128/169 Testing: t_isR_16_1
+128/169 Test: t_isR_16_1
+Command: "/home/name/git_files/txrx.sh" "-isRd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_isR_16_1" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:23554...
+Successfully connected to 169.254.144.9:23554.
+New connection from 169.254.144.1:30885.
+DEBUG: Outbound stream to 169.254.144.9:23554 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:30885 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:23554 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:30885 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:30885 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:23554 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_16_1" end time: Aug 25 15:32 CST
+"t_isR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+129/169 Testing: t_isR_32K_d
+129/169 Test: t_isR_32K_d
+Command: "/home/name/git_files/txrx.sh" "-isRd" "32K"
+Directory: /home/name/git_files/build
+"t_isR_32K_d" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:19356...
+Successfully connected to 169.254.144.9:19356.
+New connection from 169.254.144.1:16689.
+DEBUG: Outbound stream to 169.254.144.1:16689 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:19356 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:19356 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:16689 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:16689 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:19356 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_32K_d" end time: Aug 25 15:32 CST
+"t_isR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+130/169 Testing: t_isD_1M_32k
+130/169 Test: t_isD_1M_32k
+Command: "/home/name/git_files/txrx.sh" "-isDd" "1M" "-w" "32K"
+Directory: /home/name/git_files/build
+"t_isD_1M_32k" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:20125...
+Successfully connected to 169.254.144.9:20125.
+New connection from 169.254.144.1:57341.
+DEBUG: Outbound stream to 169.254.144.9:20125 finished (31768 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:57341 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:20125 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:57341 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:57341 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:20125 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_1M_32k" end time: Aug 25 15:32 CST
+"t_isD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+131/169 Testing: t_isD_128K_8K
+131/169 Test: t_isD_128K_8K
+Command: "/home/name/git_files/txrx.sh" "-isDd" "128K" "-w" "8K"
+Directory: /home/name/git_files/build
+"t_isD_128K_8K" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:6474...
+Successfully connected to 169.254.144.9:6474.
+New connection from 169.254.144.1:47228.
+DEBUG: Outbound stream to 169.254.144.1:47228 finished (7192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.9:6474 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:47228 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:6474 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.9:6474 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:47228 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_128K_8K" end time: Aug 25 15:32 CST
+"t_isD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+132/169 Testing: t_isD_16_1
+132/169 Test: t_isD_16_1
+Command: "/home/name/git_files/txrx.sh" "-isDd" "16" "-w" "1"
+Directory: /home/name/git_files/build
+"t_isD_16_1" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:29076...
+Successfully connected to 169.254.144.9:29076.
+New connection from 169.254.144.1:14582.
+DEBUG: Outbound stream to 169.254.144.9:29076 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:14582 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:14582 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:29076 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.9:29076 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:14582 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_16_1" end time: Aug 25 15:32 CST
+"t_isD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+133/169 Testing: t_isD_32K_d
+133/169 Test: t_isD_32K_d
+Command: "/home/name/git_files/txrx.sh" "-isDd" "32K"
+Directory: /home/name/git_files/build
+"t_isD_32K_d" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:26325...
+Successfully connected to 169.254.144.9:26325.
+New connection from 169.254.144.1:45620.
+DEBUG: Outbound stream to 169.254.144.9:26325 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:45620 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:45620 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.9:26325 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:45620 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.9:26325 has been fully acknowledged.
+DEBUG: TCP connection finished DEBUG: TCP connection finished cleanly.
+cleanly.
+done.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_32K_d" end time: Aug 25 15:32 CST
+"t_isD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+134/169 Testing: t_icS_128K_8K_l
+134/169 Test: t_icS_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-icSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_icS_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:32132...
+Successfully connected to 169.254.145.9:32132.
+New connection from 169.254.145.1:53923.
+DEBUG: Outbound stream to 169.254.145.1:53923 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:32132 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:53923 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:32132 finished (8000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:53923 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:32132 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_128K_8K_l" end time: Aug 25 15:32 CST
+"t_icS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+135/169 Testing: t_icS_128K_8K_L
+135/169 Test: t_icS_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-icSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icS_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:32775...
+Successfully connected to 169.254.145.9:32775.
+New connection from 169.254.145.1:54909.
+DEBUG: Outbound stream to 169.254.145.1:54909 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:32775 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:54909 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:32775 finished (8191 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:54909 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:32775 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_128K_8K_L" end time: Aug 25 15:32 CST
+"t_icS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+136/169 Testing: t_icS_128K_8K_lL
+136/169 Test: t_icS_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-icSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icS_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:11411...
+Successfully connected to 169.254.145.9:11411.
+New connection from 169.254.145.1:4821.
+DEBUG: Outbound stream to 169.254.145.1:4821 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:11411 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:4821 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:11411 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:4821 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:11411 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_icS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+137/169 Testing: t_icR_128K_8K_l
+137/169 Test: t_icR_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-icRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_icR_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:7053...
+Successfully connected to 169.254.145.9:7053.
+New connection from 169.254.145.1:853.
+DEBUG: Outbound stream to 169.254.145.9:7053 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:853 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:7053 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:853 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:7053 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:853 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.51 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_128K_8K_l" end time: Aug 25 15:32 CST
+"t_icR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+138/169 Testing: t_icR_128K_8K_L
+138/169 Test: t_icR_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-icRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icR_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:27767...
+Successfully connected to 169.254.145.9:27767.
+New connection from 169.254.145.1:37002.
+DEBUG: Outbound stream to 169.254.145.9:27767 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:37002 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:27767 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:37002 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:27767 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:37002 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_128K_8K_L" end time: Aug 25 15:32 CST
+"t_icR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+139/169 Testing: t_icR_128K_8K_lL
+139/169 Test: t_icR_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-icRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icR_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:19399...
+Successfully connected to 169.254.145.9:19399.
+New connection from 169.254.145.1:26807.
+DEBUG: Outbound stream to 169.254.145.9:19399 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:26807 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:19399 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:26807 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:19399 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:26807 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   1.37 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_icR_128K_8K_lL" time elapsed: 00:00:01
+----------------------------------------------------------
+
+140/169 Testing: t_icD_128K_8K_l
+140/169 Test: t_icD_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-icDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_icD_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:22608...
+Successfully connected to 169.254.145.9:22608.
+New connection from 169.254.145.1:10066.
+DEBUG: Outbound stream to 169.254.145.9:22608 finished (7000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:10066 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:22608 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:10066 finished (7000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:22608 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:10066 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_128K_8K_l" end time: Aug 25 15:32 CST
+"t_icD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+141/169 Testing: t_icD_128K_8K_L
+141/169 Test: t_icD_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-icDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icD_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:16010...
+Successfully connected to 169.254.145.9:16010.
+New connection from 169.254.145.1:27304.
+DEBUG: Outbound stream to 169.254.145.1:27304 finished (7000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:16010 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:27304 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:16010 finished (8191 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:27304 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:16010 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.48 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_128K_8K_L" end time: Aug 25 15:32 CST
+"t_icD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+142/169 Testing: t_icD_128K_8K_lL
+142/169 Test: t_icD_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-icDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icD_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.145.9:4035...
+Successfully connected to 169.254.145.9:4035.
+New connection from 169.254.145.1:11310.
+DEBUG: Outbound stream to 169.254.145.1:11310 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.9:4035 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:4035 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:11310 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.1:11310 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:4035 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.50 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_icD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+143/169 Testing: t_isS_128K_8K_l
+143/169 Test: t_isS_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-isSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_isS_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:22357...
+Successfully connected to 169.254.144.9:22357.
+New connection from 169.254.144.1:53488.
+DEBUG: Outbound stream to 169.254.144.9:22357 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:53488 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:22357 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:53488 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:22357 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:53488 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_128K_8K_l" end time: Aug 25 15:32 CST
+"t_isS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+144/169 Testing: t_isS_128K_8K_L
+144/169 Test: t_isS_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-isSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isS_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:3315...
+Successfully connected to 169.254.144.9:3315.
+New connection from 169.254.144.1:35890.
+DEBUG: Outbound stream to 169.254.144.9:3315 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:35890 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:3315 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:35890 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:3315 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:35890 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_128K_8K_L" end time: Aug 25 15:32 CST
+"t_isS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+145/169 Testing: t_isS_128K_8K_lL
+145/169 Test: t_isS_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-isSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isS_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:12635...
+Successfully connected to 169.254.144.9:12635.
+New connection from 169.254.144.1:14226.
+DEBUG: Outbound stream to 169.254.144.9:12635 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:14226 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:12635 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:14226 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:12635 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:14226 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_isS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+146/169 Testing: t_isR_128K_8K_l
+146/169 Test: t_isR_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-isRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_isR_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:11325...
+Successfully connected to 169.254.144.9:11325.
+New connection from 169.254.144.1:11222.
+DEBUG: Outbound stream to 169.254.144.1:11222 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:11325 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:11222 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:11325 finished (7000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:11222 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:11325 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_128K_8K_l" end time: Aug 25 15:32 CST
+"t_isR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+147/169 Testing: t_isR_128K_8K_L
+147/169 Test: t_isR_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-isRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isR_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:33140...
+Successfully connected to 169.254.144.9:33140.
+New connection from 169.254.144.1:59260.
+DEBUG: Outbound stream to 169.254.144.1:59260 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:33140 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:59260 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:33140 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:59260 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:33140 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_128K_8K_L" end time: Aug 25 15:32 CST
+"t_isR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+148/169 Testing: t_isR_128K_8K_lL
+148/169 Test: t_isR_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-isRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isR_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:19197...
+Successfully connected to 169.254.144.9:19197.
+New connection from 169.254.144.1:4295.
+DEBUG: Outbound stream to 169.254.144.1:4295 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:19197 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:4295 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:19197 finished (8191 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:4295 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:19197 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_isR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+149/169 Testing: t_isD_128K_8K_l
+149/169 Test: t_isD_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-isDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_isD_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:20741...
+Successfully connected to 169.254.144.9:20741.
+New connection from 169.254.144.1:21753.
+DEBUG: Outbound stream to 169.254.144.1:21753 finished (8000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:20741 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:21753 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:20741 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:21753 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:20741 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_128K_8K_l" end time: Aug 25 15:32 CST
+"t_isD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+150/169 Testing: t_isD_128K_8K_L
+150/169 Test: t_isD_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-isDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isD_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:17380...
+Successfully connected to 169.254.144.9:17380.
+New connection from 169.254.144.1:18825.
+DEBUG: Outbound stream to 169.254.144.9:17380 finished (8000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:18825 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:17380 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:18825 finished (8191 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:17380 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:18825 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_128K_8K_L" end time: Aug 25 15:32 CST
+"t_isD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+151/169 Testing: t_isD_128K_8K_lL
+151/169 Test: t_isD_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-isDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isD_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+DEBUG: Connecting to 169.254.144.9:12536...
+Successfully connected to 169.254.144.9:12536.
+New connection from 169.254.144.1:15615.
+DEBUG: Outbound stream to 169.254.144.1:15615 finished (8191 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.9:12536 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:12536 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:15615 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:15615 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:12536 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.68 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_isD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+152/169 Testing: t_icnS_128K_8K_l
+152/169 Test: t_icnS_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-icSnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_icnS_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:10807...
+Successfully connected to 169.254.144.1:10807.
+DEBUG: Inbound stream from 169.254.144.1:10807 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:10807 finished (24073 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:10807 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnS_128K_8K_l" end time: Aug 25 15:32 CST
+"t_icnS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+153/169 Testing: t_icnS_128K_8K_L
+153/169 Test: t_icnS_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-icSnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icnS_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:7640...
+Successfully connected to 169.254.144.1:7640.
+DEBUG: Inbound stream from 169.254.144.1:7640 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:7640 finished (48000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:7640 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.36 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnS_128K_8K_L" end time: Aug 25 15:32 CST
+"t_icnS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+154/169 Testing: t_icnS_128K_8K_lL
+154/169 Test: t_icnS_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-icSnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icnS_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:33451...
+Successfully connected to 169.254.144.1:33451.
+DEBUG: Inbound stream from 169.254.144.1:33451 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:33451 finished (39000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:33451 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnS_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_icnS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+155/169 Testing: t_icnR_128K_8K_l
+155/169 Test: t_icnR_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-icRnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_icnR_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:18073...
+Successfully connected to 169.254.144.1:18073.
+DEBUG: Outbound stream to 169.254.144.1:18073 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:18073 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:18073 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.48 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnR_128K_8K_l" end time: Aug 25 15:32 CST
+"t_icnR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+156/169 Testing: t_icnR_128K_8K_L
+156/169 Test: t_icnR_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-icRnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icnR_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:5220...
+Successfully connected to 169.254.144.1:5220.
+DEBUG: Outbound stream to 169.254.144.1:5220 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:5220 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:5220 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnR_128K_8K_L" end time: Aug 25 15:32 CST
+"t_icnR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+157/169 Testing: t_icnR_128K_8K_lL
+157/169 Test: t_icnR_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-icRnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icnR_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:18646...
+Successfully connected to 169.254.144.1:18646.
+DEBUG: Outbound stream to 169.254.144.1:18646 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:18646 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:18646 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnR_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_icnR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+158/169 Testing: t_icnD_128K_8K_l
+158/169 Test: t_icnD_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-icDnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_icnD_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:5837...
+Successfully connected to 169.254.144.1:5837.
+DEBUG: Outbound stream to 169.254.144.1:5837 finished (62000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:5837 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:5837 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnD_128K_8K_l" end time: Aug 25 15:32 CST
+"t_icnD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+159/169 Testing: t_icnD_128K_8K_L
+159/169 Test: t_icnD_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-icDnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icnD_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:9033...
+Successfully connected to 169.254.144.1:9033.
+DEBUG: Outbound stream to 169.254.144.1:9033 finished (52000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:9033 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:9033 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnD_128K_8K_L" end time: Aug 25 15:32 CST
+"t_icnD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+160/169 Testing: t_icnD_128K_8K_lL
+160/169 Test: t_icnD_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-icDnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_icnD_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:12705...
+Successfully connected to 169.254.144.1:12705.
+DEBUG: Outbound stream to 169.254.144.1:12705 finished (55000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:12705 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:12705 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnD_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_icnD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+161/169 Testing: t_isnS_128K_8K_l
+161/169 Test: t_isnS_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-isSnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_isnS_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:58526.
+DEBUG: Inbound stream from 169.254.144.1:58526 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:58526 finished (64000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:58526 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnS_128K_8K_l" end time: Aug 25 15:32 CST
+"t_isnS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+162/169 Testing: t_isnS_128K_8K_L
+162/169 Test: t_isnS_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-isSnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isnS_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:54186.
+DEBUG: Inbound stream from 169.254.144.1:54186 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:54186 finished (41000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:54186 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnS_128K_8K_L" end time: Aug 25 15:32 CST
+"t_isnS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+163/169 Testing: t_isnS_128K_8K_lL
+163/169 Test: t_isnS_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-isSnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isnS_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:41810.
+DEBUG: Inbound stream from 169.254.144.1:41810 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:41810 finished (50000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:41810 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnS_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_isnS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+164/169 Testing: t_isnR_128K_8K_l
+164/169 Test: t_isnR_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-isRnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_isnR_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:55500.
+DEBUG: Outbound stream to 169.254.144.1:55500 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:55500 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:55500 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.72 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnR_128K_8K_l" end time: Aug 25 15:32 CST
+"t_isnR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+165/169 Testing: t_isnR_128K_8K_L
+165/169 Test: t_isnR_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-isRnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isnR_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:44754.
+DEBUG: Outbound stream to 169.254.144.1:44754 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:44754 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:44754 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnR_128K_8K_L" end time: Aug 25 15:32 CST
+"t_isnR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+166/169 Testing: t_isnR_128K_8K_lL
+166/169 Test: t_isnR_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-isRnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isnR_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:55396.
+DEBUG: Outbound stream to 169.254.144.1:55396 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:55396 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:55396 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.51 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnR_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_isnR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+167/169 Testing: t_isnD_128K_8K_l
+167/169 Test: t_isnD_128K_8K_l
+Command: "/home/name/git_files/txrx.sh" "-isDnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/name/git_files/build
+"t_isnD_128K_8K_l" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:42174.
+DEBUG: Outbound stream to 169.254.144.1:42174 finished (43760 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:42174 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:42174 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.68 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnD_128K_8K_l" end time: Aug 25 15:32 CST
+"t_isnD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+168/169 Testing: t_isnD_128K_8K_L
+168/169 Test: t_isnD_128K_8K_L
+Command: "/home/name/git_files/txrx.sh" "-isDnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isnD_128K_8K_L" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:59106.
+DEBUG: Inbound stream from 169.254.144.1:59106 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:59106 finished (51000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:59106 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnD_128K_8K_L" end time: Aug 25 15:32 CST
+"t_isnD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+169/169 Testing: t_isnD_128K_8K_lL
+169/169 Test: t_isnD_128K_8K_lL
+Command: "/home/name/git_files/txrx.sh" "-isDnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/name/git_files/build
+"t_isnD_128K_8K_lL" start time: Aug 25 15:32 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection...
+New connection from 169.254.144.1:54944.
+DEBUG: Outbound stream to 169.254.144.1:54944 finished (58000 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:54944 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:54944 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnD_128K_8K_lL" end time: Aug 25 15:32 CST
+"t_isnD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 25 15:32 CST

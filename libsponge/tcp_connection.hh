@@ -16,10 +16,18 @@ class TCPConnection {
     //! outbound queue of segments that the TCPConnection wants sent
     std::queue<TCPSegment> _segments_out{};
 
+    size_t _time_since_last_segment_received{0};  //上一次收到segment后经过的时间
+    bool _active{true};                           //`true` if either stream is still running or if the TCPConnection is lingering
+
     //! Should the TCPConnection stay active (and keep ACKing)
     //! for 10 * _cfg.rt_timeout milliseconds after both streams have ended,
     //! in case the remote TCPConnection doesn't know we've received its whole stream?
     bool _linger_after_streams_finish{true};
+
+    bool _send_segments();                        //将sender._segments_out中的segment push到_segments_out中，真正发送
+    //连接终止的两种方式
+    void _clean_shutdown();     //没有错误的结束
+    void _unclean_shutdown();   //发送或收到RST
 
   public:
     //! \name "Input" interface for the writer
