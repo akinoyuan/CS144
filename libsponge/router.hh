@@ -49,6 +49,15 @@ class Router {
     //! datagram's destination address.
     void route_one_datagram(InternetDatagram &dgram);
 
+    typedef struct Route {          //路由表中的一条路径
+        uint32_t route_prefix = 0;      //路由前缀，32位IP地址
+        uint8_t prefix_length = 0;      //前缀长度，0-32
+        std::optional<Address> next_hop = std::nullopt; //直接连接到目标地址，下一跳是数据报的目标地址,否则下一跳为路径上的下一个路由器的IP地址
+        size_t interface_num = 0;       //路由器连接到下一跳的接口
+    } Route;
+    std::vector<Route> _route_table{}; //路由表
+    bool _prefix_equal(uint32_t ip1, uint32_t ip2, uint8_t len); //前缀匹配
+
   public:
     //! Add an interface to the router
     //! \param[in] interface an already-constructed network interface

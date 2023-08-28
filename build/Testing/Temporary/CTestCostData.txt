@@ -29,7 +29,7 @@ t_byte_stream_one_write 31 3.93199e-05
 t_byte_stream_two_writes 31 3.73148e-05
 t_byte_stream_capacity 30 0.0159224
 t_byte_stream_many_writes 31 0.000168186
-t_webget 8 0.134099
+t_webget 9 0.133649
 t_address_dt 28 0.000252925
 t_parser_dt 28 4.72755e-05
 t_socket_dt 28 8.54591e-05
@@ -161,4 +161,6 @@ t_isnR_128K_8K_lL 2 0.254002
 t_isnD_128K_8K_l 2 0.338944
 t_isnD_128K_8K_L 2 0.175431
 t_isnD_128K_8K_lL 2 0.203072
+arp_network_interface 2 0.00164927
+router_test 1 0.00811577
 ---

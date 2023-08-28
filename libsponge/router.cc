@@ -29,14 +29,34 @@ void Router::add_route(const uint32_t route_prefix,
     cerr << "DEBUG: adding route " << Address::from_ipv4_numeric(route_prefix).ip() << "/" << int(prefix_length)
          << " => " << (next_hop.has_value() ? next_hop->ip() : "(direct)") << " on interface " << interface_num << "\n";
 
-    DUMMY_CODE(route_prefix, prefix_length, next_hop, interface_num);
     // Your code here.
+    Route new_rt = {route_prefix, prefix_length, next_hop, interface_num};
+    _route_table.push_back(new_rt);
 }
 
 //! \param[in] dgram The datagram to be routed
 void Router::route_one_datagram(InternetDatagram &dgram) {
-    DUMMY_CODE(dgram);
-    // Your code here.
+    if(dgram.header().ttl <= 1) return;         //ttl<=0,删除数据报
+    bool route_found = false;
+    Route rt;
+    uint32_t dst_ip = dgram.header().dst;
+    for (size_t i = 0; i < _route_table.size(); i++) {     //在路由表中寻找最长前缀匹配
+        if (_prefix_equal(dst_ip, _route_table[i].route_prefix, _route_table[i].prefix_length)) {
+            if (!route_found || rt.prefix_length < _route_table[i].prefix_length) {
+                rt = _route_table[i];
+                route_found = true;
+            }
+        }
+    }
+    if (!route_found) { //未找到匹配的路径
+        return;
+    }
+    dgram.header().ttl--;
+    if (rt.next_hop.has_value()) {
+        _interfaces[rt.interface_num].send_datagram(dgram, rt.next_hop.value());
+    } else {  //next_hop为空时，下一跳就是数据报的目标地址
+        _interfaces[rt.interface_num].send_datagram(dgram, Address::from_ipv4_numeric(dgram.header().dst));
+    }
 }
 
 void Router::route() {
@@ -48,4 +68,9 @@ void Router::route() {
             queue.pop();
         }
     }
+}
+
+bool Router::_prefix_equal(uint32_t ip1, uint32_t ip2, uint8_t len) {
+    uint32_t offset = (len == 0) ? 0 : 0xffffffff << (32 - len);    //前缀长度
+    return (ip1 & offset) == (ip2 & offset);
 }

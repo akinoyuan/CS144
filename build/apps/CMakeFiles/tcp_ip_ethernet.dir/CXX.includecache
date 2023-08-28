@@ -21,6 +21,10 @@ optional
 -
 queue
 -
+map
+-
+vector
+-
 
 ../libsponge/stream_reassembler.hh
 byte_stream.hh
